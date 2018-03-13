@@ -1,5 +1,5 @@
 {
-  "name": "vue-mobile-cli",
+  "name": "chf-vue-cli",
   "version": "1.0.0",
   "description": "创建基于webpack和vue的移动端脚手架",
   "main": "index.js",
